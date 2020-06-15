@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">PhotosphereExifTool</string>
+    <string name="task_cancelled">Task cancelled!</string>
 </resources>
